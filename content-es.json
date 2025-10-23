@@ -1,0 +1,150 @@
+{
+  "categories": [
+    {
+      "category": "estres",
+      "displayName": "Estrés",
+      "color": "#F2B705",
+      "items": [
+       {
+          "id": "yt_estres_1",
+          "title": "5 consejos simples para controlar el estrés",
+          "description": "Video corto con estrategias prácticas para reducir el estrés diario.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=P82Ola6HZ0I",
+          "thumbnail": "https://img.youtube.com/vi/P82Ola6HZ0I/hqdefault.jpg",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "yt_estres_2",
+          "title": "Cómo entrenar tu mente para vencer el estrés (por Marian Rojas-Estapé)",
+          "description": "La psiquiatra Marian Rojas explica cómo el cerebro puede ser tu mejor aliado para controlar el estrés.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=0noAwrWY78U",
+          "thumbnail": "https://img.youtube.com/vi/0noAwrWY78U/hqdefault.jpg",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "yt_estres_3",
+          "title": "El estrés explicado con humor (por Casi Creativo)",
+          "description": "Un toque de humor para entender cómo el estrés afecta nuestra vida cotidiana.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=0is459zM92U",
+          "thumbnail": "https://img.youtube.com/vi/0is459zM92U/hqdefault.jpg",
+          "lastUpdated": "2025-10-20T00:00:00Z"
+        },
+        {
+          "id": "blog_estres_practico_1",
+          "title": "5 pasos sencillos para reducir el estrés diario",
+          "description": "Consejos prácticos y fáciles de aplicar para aliviar el estrés rápidamente.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.psicologiaymente.com/vida/reducir-estres",
+          "thumbnail": "https://www.psicologiaymente.com/static/images/logo-psicologiaymente.png",
+          "lastUpdated": "2025-10-19T00:00:00Z"
+        },
+        {
+          "id": "blog_estres_practico_2",
+          "title": "7 técnicas efectivas para manejar el estrés en el trabajo",
+          "description": "Aprende estrategias útiles para mantener la calma y mejorar tu bienestar laboral.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.psicopedia.org/1985/tecnicas-manejo-del-estres/",
+          "thumbnail": "https://www.psicopedia.org/wp-content/uploads/2015/07/psicopedia-logo-1024x1024.png",
+          "lastUpdated": "2025-10-19T00:00:00Z"
+        },
+        {
+          "id": "blog_estres_informativo_1",
+          "title": "Qué es el estrés y cómo impacta en tu cuerpo",
+          "description": "Explicación completa sobre qué es el estrés, sus causas y cómo afecta tu salud física y mental.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mayoclinic.org/es/diseases-conditions/stress-symptoms-causes/syc-20353560",
+          "thumbnail": "https://www.mayoclinic.org/etc.clientlibs/mayoclinic/clientlibs/clientlib-site/resources/images/favicon.ico",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "blog_estres_informativo_2",
+          "title": "Así reacciona tu cerebro cuando estás bajo estrés",
+          "description": "Descubre qué sucede dentro del cerebro cuando enfrentamos situaciones estresantes y cómo podemos regularlo.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.bbva.com/es/salud-mental-cerebro-estres/",
+          "thumbnail": "https://www.bbva.com/wp-content/uploads/2022/10/bbva-logo-azul.png",
+          "lastUpdated": "2025-10-18T00:00:00Z"
+        }
+
+      ]
+    },
+    {
+      "category": "ansiedad",
+      "displayName": "Ansiedad",
+      "color": "#3B82F6",
+      "items": [
+        {
+          "id": "yt_ansiedad_1",
+          "title": "Cómo calmar la ansiedad en minutos",
+          "description": "Video práctico con técnicas simples para calmarte en momentos de ansiedad intensa.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=lzA3rHw0bUo",
+          "thumbnail": "https://img.youtube.com/vi/lzA3rHw0bUo/hqdefault.jpg",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "depresion",
+      "displayName": "Depresión",
+      "color": "#9333EA",
+      "items": [
+        {
+          "id": "yt_depresion_1",
+          "title": "Cómo detectar los primeros signos de depresión",
+          "description": "Video educativo que explica los síntomas tempranos y cómo buscar ayuda a tiempo.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=w9zJrq9m2Bo",
+          "thumbnail": "https://img.youtube.com/vi/w9zJrq9m2Bo/hqdefault.jpg",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "autoestima",
+      "displayName": "Autoestima",
+      "color": "#22C55E",
+      "items": [
+        {
+          "id": "yt_autoestima_1",
+          "title": "Cómo fortalecer tu autoestima paso a paso",
+          "description": "Video motivacional con estrategias prácticas para mejorar tu autoconfianza.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=6mZqV4TBnWg",
+          "thumbnail": "https://img.youtube.com/vi/6mZqV4TBnWg/hqdefault.jpg",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "sueno",
+      "displayName": "Sueño",
+      "color": "#0EA5E9",
+      "items": [
+        {
+          "id": "yt_sueno_1",
+          "title": "Consejos para dormir mejor y despertar con energía",
+          "description": "Guía práctica con hábitos saludables para mejorar tu calidad de sueño.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=0EkrfI9YHqA",
+          "thumbnail": "https://img.youtube.com/vi/0EkrfI9YHqA/hqdefault.jpg",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}
