@@ -1,0 +1,540 @@
+{
+  "categories": [
+    {
+      "category": "stress",
+      "displayName": "Stress",
+      "color": "#F2B705",
+      "items": [
+        {
+          "id": "yt_stress_1",
+          "title": "How to Make Stress Your Friend | Kelly McGonigal | TED",
+          "description": "A fascinating TED Talk about changing your mindset to make stress work for you instead of against you.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=RcGyVTAoXEU",
+          "thumbnail": "https://img.youtube.com/vi/RcGyVTAoXEU/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_stress_2",
+          "title": "Stress Symptoms, Signs, and Causes",
+          "description": "HelpGuide explains how stress affects your mind and body, and offers practical tips to manage it effectively.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.helpguide.org/mental-health/stress/stress-symptoms-signs-and-causes",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_stress_2",
+          "title": "How Stress Affects Your Body - Sharon Horesh Bergquist",
+          "description": "An animated explanation of what happens inside your body when you’re stressed.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=v-t1Z5-oPtU",
+          "thumbnail": "https://img.youtube.com/vi/v-t1Z5-oPtU/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_stress_1",
+          "title": "Stress Relievers: Tips to Tame Stress",
+          "description": "Practical advice from Mayo Clinic on how to manage stress in healthy ways.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-relievers/art-20047257",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_stress_3",
+          "title": "5 Ways Chronic Stress Alters Your Brain and How to Safeguard Your Mental Well-being",
+          "description": "Learn how chronic stress impacts brain function and what you can do to protect your mental health.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=gqCGsTdR_Js",
+          "thumbnail": "https://img.youtube.com/vi/gqCGsTdR_Js/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_stress_3",
+          "title": "10 Stress Busters",
+          "description": "The NHS shares 10 simple and effective ways to reduce stress and improve your emotional wellbeing.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/tips-to-reduce-stress/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "anxiety",
+      "displayName": "Anxiety",
+      "color": "#3B82F6",
+      "items": [
+        {
+          "id": "blog_anxiety_2",
+          "title": "Tips and Strategies to Manage Anxiety and Stress",
+          "description": "Practical strategies from the Anxiety and Depression Association of America (ADAA) to manage stress and anxiety in daily life.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://adaa.org/tips",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "yt_anxiety_3",
+          "title": "What is Anxiety?",
+          "description": "An animated explainer video that breaks down what anxiety is, how it manifests in the body, and why it’s a normal human emotion that can become overwhelming when unmanaged.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=BVJkf8IuRjE",
+          "thumbnail": "https://img.youtube.com/vi/BVJkf8IuRjE/hqdefault.jpg",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "blog_anxiety_1",
+          "title": "Tips for Coping with an Anxiety Disorder",
+          "description": "Mayo Clinic News Network article offering guidance on lifestyle changes and relaxation techniques to manage anxiety effectively.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://newsnetwork.mayoclinic.org/discussion/tips-for-coping-with-an-anxiety-disorder/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "yt_anxiety_2",
+          "title": "What’s Normal Anxiety – and What’s an Anxiety Disorder? | Body Stuff with Dr. Jen Gunter | TED",
+          "description": "TED video by Dr. Jen Gunter that explores the difference between normal anxiety and anxiety disorders, helping viewers recognize when to seek help.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=xsEJ6GeAGb0",
+          "thumbnail": "https://img.youtube.com/vi/xsEJ6GeAGb0/hqdefault.jpg",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "blog_anxiety_3",
+          "title": "31 Surprising Things That Reduce Anxiety Fast",
+          "description": "A Dignity Health article sharing simple, science-based and unexpected ways to quickly reduce anxiety levels and calm your mind.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.dignityhealth.org/central-california/locations/stjosephs-stockton/about-us/hello-healthy/hello-healthy-articles/31-surprising-things-that-reduce-anxiety-fast",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-20T00:00:00Z"
+        },
+        {
+          "id": "yt_anxiety_1",
+          "title": "How to Stop Feeling Anxious About Anxiety | Tim Box | TEDxFolkestone",
+          "description": "Tim Box explains how to break the feedback loop of fearing your own anxiety, helping you develop a healthier relationship with it.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=ZidGozDhOjg",
+          "thumbnail": "https://img.youtube.com/vi/ZidGozDhOjg/hqdefault.jpg",
+          "lastUpdated": "2025-10-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "depression",
+      "displayName": "Depression",
+      "color": "#9333EA",
+      "items": [
+        {
+          "id": "yt_depression_2",
+          "title": "\"I'm Fine\" - Learning To Live With Depression | Jake Tyler | TEDxBrighton",
+          "description": "In this heartfelt talk, Jake Tyler shares his journey of living with depression and how he learned to navigate through it with honesty and resilience.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=IDPDEKtd2yM",
+          "thumbnail": "https://img.youtube.com/vi/IDPDEKtd2yM/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_depression_mc_1",
+          "title": "Clinical Depression: What Does That Mean?",
+          "description": "An article from Mayo Clinic explaining what clinical depression is and how it differs from normal sadness.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mayoclinic.org/diseases-conditions/depression/expert-answers/clinical-depression/faq-20057770",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_depression_3",
+          "title": "Depression: Understanding Intense Moods and Getting Treatment | Stanford",
+          "description": "Stanford experts explain what depression is, its symptoms, and how to seek effective treatments for recovery.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=blwV6rnvDk8",
+          "thumbnail": "https://img.youtube.com/vi/blwV6rnvDk8/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_depression_nami_2",
+          "title": "What to Do When You Love Someone with Depression",
+          "description": "A NAMI blog post offering practical guidance on how to support loved ones living with depression while maintaining healthy boundaries.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.nami.org/Blogs/NAMI-Blog/November-2021/What-to-Do-When-You-Love-Someone-with-Depression",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_depression_1",
+          "title": "Depression Explained (Major Depressive Disorder)",
+          "description": "An animated video explaining the causes, symptoms, and treatment of major depressive disorder in a simple and educational way.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=tJQRsIbD110",
+          "thumbnail": "https://img.youtube.com/vi/tJQRsIbD110/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_depression_hfh_3",
+          "title": "How to Support a Friend with Depression",
+          "description": "Henry Ford Health provides insight on recognizing signs of depression and effective ways to support someone going through it.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.henryford.com/blog/2022/07/how-to-support-a-friend-with-depression",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "self_esteem",
+      "displayName": "Self-Esteem and Growth",
+      "color": "#22C55E",
+      "items": [
+        {
+          "id": "yt_selfesteem_2",
+          "title": "Cultivating Unconditional Self-Worth | Adia Gooden | TEDxDePaulUniversity",
+          "description": "In this inspiring TEDx talk, Adia Gooden explores how to break free from the need for external validation and build a sense of unconditional self-worth.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=EirlZ7fy3bE",
+          "thumbnail": "https://img.youtube.com/vi/EirlZ7fy3bE/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_selfesteem_1",
+          "title": "Build Your Self-Esteem with These 12 Proven Strategies",
+          "description": "A comprehensive guide from BetterUp with science-backed strategies to strengthen your self-esteem and confidence at work and in life.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.betterup.com/blog/how-to-improve-self-esteem",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_selfesteem_3",
+          "title": "Your Self Esteem Was Destroyed In Childhood",
+          "description": "A video that explains how early childhood experiences shape self-esteem and how to rebuild it as an adult through awareness and compassion.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=NDpWywXqxa0",
+          "thumbnail": "https://img.youtube.com/vi/NDpWywXqxa0/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_selfesteem_2",
+          "title": "How can I improve my self-esteem?",
+          "description": "Mind UK offers practical, compassionate advice to build self-worth and manage self-critical thoughts in everyday life.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/tips-to-improve-your-self-esteem/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_selfesteem_1",
+          "title": "3 tips to boost your confidence - TED-Ed",
+          "description": "A short animated TED-Ed lesson that explores psychological techniques and behavioral changes to help you feel more confident in daily life.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=l_NYrWqUR40",
+          "thumbnail": "https://img.youtube.com/vi/l_NYrWqUR40/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_selfesteem_3",
+          "title": "Building Self-Esteem",
+          "description": "HealthyPlace’s ongoing blog series explores self-acceptance, emotional healing, and strategies to overcome low self-esteem.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.healthyplace.com/blogs/buildingselfesteem/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "couples",
+      "displayName": "Couples Therapy",
+      "color": "#FF6F61",
+      "items": [
+        {
+          "id": "yt_couples_2",
+          "title": "Relationships Are Hard, But Why? | Stan Tatkin | TEDxKC",
+          "description": "Therapist Stan Tatkin explains why relationships can be so challenging and how to build secure and lasting bonds.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=2xKXLPuju8U",
+          "thumbnail": "https://img.youtube.com/vi/2xKXLPuju8U/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_couples_2",
+          "title": "Growing a Healthy and Loving Relationship",
+          "description": "Imago Relationships provides practical advice on how to reconnect, communicate better, and strengthen love over time.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://blog.imagorelationshipswork.com/healthy-loving-relationship",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-24T00:00:00Z"
+        },
+        {
+          "id": "yt_couples_3",
+          "title": "The Science of Falling in Love | Shannon Odell",
+          "description": "A fun and scientific look at what happens in your brain when you fall in love — chemistry, emotions, and neural connections.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=f_OPjYQovAE",
+          "thumbnail": "https://img.youtube.com/vi/f_OPjYQovAE/hqdefault.jpg",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "blog_couples_3",
+          "title": "Healthy Relationships in Practice",
+          "description": "The Gottman Institute shares research-based tools to improve communication, trust, and intimacy in your relationship.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.gottman.com/blog/healthy-relationships-in-practice/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "yt_couples_1",
+          "title": "4 Habits of ALL Successful Relationships | Dr. Andrea & Jonathan Taylor-Cummings | TEDxSquareMile",
+          "description": "Discover four essential habits that strengthen every successful relationship, according to Dr. Andrea and Jonathan Taylor-Cummings.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=o4Y5Mr8rZ9A",
+          "thumbnail": "https://img.youtube.com/vi/o4Y5Mr8rZ9A/hqdefault.jpg",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "blog_couples_1",
+          "title": "What a Healthy Relationship Really Looks Like",
+          "description": "Psychology Today explores what truly defines a healthy relationship: mutual respect, emotional safety, humor, and teamwork.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.psychologytoday.com/us/blog/couples-thrive/202304/hi-im-a-healthy-relationship",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-20T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "family",
+      "displayName": "Family & Parenting",
+      "color": "#F59E0B",
+      "items": [
+        {
+          "id": "blog_parenting_1",
+          "title": "Positive Parenting Tips",
+          "description": "Practical tips from the CDC on how to nurture healthy parent-child relationships and support positive child development at every stage.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.cdc.gov/child-development/positive-parenting-tips/index.html",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "yt_parenting_3",
+          "title": "How to Raise Successful Kids -- Without Over-Parenting | Julie Lythcott-Haims | TED",
+          "description": "Julie Lythcott-Haims explores how over-parenting can harm children’s growth and shares how to raise confident, capable, and independent kids.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=CyElHdaqkjo",
+          "thumbnail": "https://img.youtube.com/vi/CyElHdaqkjo/hqdefault.jpg",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "blog_parenting_2",
+          "title": "Why Parenting Styles Matter When Raising Children",
+          "description": "An insightful article by Verywell Mind explaining different parenting styles, their characteristics, and how they impact a child's development and behavior.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.verywellmind.com/parenting-styles-2795072",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "yt_parenting_2",
+          "title": "Why Most Parenting Advice is Wrong | Yuko Munakata | TEDxCU",
+          "description": "Yuko Munakata, a developmental psychologist, challenges common misconceptions about parenting and explains what truly shapes children’s outcomes.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=5g8tHEXtCXE",
+          "thumbnail": "https://img.youtube.com/vi/5g8tHEXtCXE/hqdefault.jpg",
+          "lastUpdated": "2025-10-20T00:00:00Z"
+        },
+        {
+          "id": "blog_parenting_3",
+          "title": "Positive Parenting",
+          "description": "An NIH article discussing the importance of positive parenting approaches and how they promote children’s mental and emotional well-being.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://newsinhealth.nih.gov/2018/07/positive-parenting",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-19T00:00:00Z"
+        },
+        {
+          "id": "yt_parenting_1",
+          "title": "5 Parenting Styles and Their Effects on Life",
+          "description": "A concise explanation of the five main parenting styles and how each influences a child’s emotional and social development.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=fyO8pvpnTdE",
+          "thumbnail": "https://img.youtube.com/vi/fyO8pvpnTdE/hqdefault.jpg",
+          "lastUpdated": "2025-10-18T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "grief",
+      "displayName": "Grief & Loss",
+      "color": "#6B7280",
+      "items": [
+        {
+          "id": "yt_grief_1",
+          "title": "When Someone You Love Dies, There Is No Such Thing as Moving On | Kelley Lynn | TEDxAdelphiUniversity",
+          "description": "A heartfelt TEDx talk by Kelley Lynn explaining why grief is not something to 'move on' from, but rather something to live with and grow through.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=kYWlCGbbDGI",
+          "thumbnail": "https://img.youtube.com/vi/kYWlCGbbDGI/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_grief_2",
+          "title": "Bereavement and Grief | Mental Health America",
+          "description": "An informative guide from Mental Health America that explains what grief is, common emotional reactions, and how to manage them in a healthy way.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://mhanational.org/resources/bereavement-and-grief/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_grief_2",
+          "title": "Grief: What Everyone Should Know | Tanya Villanueva Tepper | TEDxUMiami",
+          "description": "Tanya Villanueva Tepper shares a powerful perspective on grief, loss, and resilience based on her personal experience after the events of 9/11.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=BwPoqQPynEc",
+          "thumbnail": "https://img.youtube.com/vi/BwPoqQPynEc/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_grief_1",
+          "title": "What’s Your Grief — Understanding Loss Beyond the Stages",
+          "description": "A comprehensive blog exploring grief beyond the traditional five stages, offering personal stories, coping tools, and emotional support resources.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://whatsyourgrief.com/blog/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_grief_3",
+          "title": "How Grief Affects Your Brain And What To Do About It | Better | NBC News",
+          "description": "A science-based video explaining how grief impacts the brain and offering practical advice to help the healing process.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=eEcaUhxAH2g",
+          "thumbnail": "https://img.youtube.com/vi/eEcaUhxAH2g/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_grief_3",
+          "title": "Coping With Grief: 7 Things to Remember When Dealing With Loss | Memorial Sloan Kettering",
+          "description": "An article by Memorial Sloan Kettering Cancer Center offering seven key reminders for navigating grief and finding meaning after loss.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mskcc.org/news/coping-grief-7-things-remember-when-dealing-loss",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "work_stress",
+      "displayName": "Work Stress and Burnout",
+      "color": "#EF4444",
+      "items": [
+        {
+          "id": "yt_burnout_2",
+          "title": "Occupational Burnout: When Work Becomes Overwhelming",
+          "description": "A detailed explanation of occupational burnout, its symptoms, and how chronic stress in the workplace can lead to emotional exhaustion.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=Sceo_3BVv0s",
+          "thumbnail": "https://img.youtube.com/vi/Sceo_3BVv0s/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_burnout_3",
+          "title": "How to Recognize Employee Burnout",
+          "description": "WorkRamp's article that helps managers and HR professionals identify the signs of employee burnout and offers actionable steps to support recovery.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.workramp.com/blog/how-to-recognize-employee-burnout",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_burnout_3",
+          "title": "Burnout and Post-Traumatic Stress Disorder | Dr. Geri Puleo | TEDxSetonHillUniversity",
+          "description": "Dr. Geri Puleo explores the connection between burnout and post-traumatic stress, offering insights on how to recognize and recover from chronic work-related stress.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=hFkI69zJzLI",
+          "thumbnail": "https://img.youtube.com/vi/hFkI69zJzLI/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_burnout_1",
+          "title": "Workplace Burnout: Building Awareness and Prevention",
+          "description": "Article by the Anxiety and Depression Association of America (ADAA) explaining how to recognize workplace burnout, build awareness, and prevent emotional exhaustion.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://adaa.org/learn-from-us/from-the-experts/blog-posts/professional/workplace-burnout",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_burnout_1",
+          "title": "6 Signs You’re Burnt Out, Not Lazy",
+          "description": "This video breaks down the difference between laziness and burnout, highlighting six clear signs that your exhaustion may be due to chronic stress rather than lack of motivation.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=MLuJ249WnkE",
+          "thumbnail": "https://img.youtube.com/vi/MLuJ249WnkE/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_burnout_2",
+          "title": "Job Burnout: How to Spot It and Take Action",
+          "description": "Mayo Clinic's comprehensive guide to identifying job burnout, understanding its physical and emotional effects, and learning practical ways to regain balance and well-being.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        }
+      ]
+    }
+  ]
+}
