@@ -5,25 +5,15 @@
       "displayName": "Estrés",
       "color": "#F2B705",
       "items": [
-       {
-          "id": "yt_estres_1",
-          "title": "5 consejos simples para controlar el estrés",
-          "description": "Video corto con estrategias prácticas para reducir el estrés diario.",
-          "type": "video",
-          "source": "youtube",
-          "url": "https://www.youtube.com/watch?v=P82Ola6HZ0I",
-          "thumbnail": "https://img.youtube.com/vi/P82Ola6HZ0I/hqdefault.jpg",
-          "lastUpdated": "2025-10-22T00:00:00Z"
-        },
         {
-          "id": "yt_estres_2",
-          "title": "Cómo entrenar tu mente para vencer el estrés (por Marian Rojas-Estapé)",
-          "description": "La psiquiatra Marian Rojas explica cómo el cerebro puede ser tu mejor aliado para controlar el estrés.",
-          "type": "video",
-          "source": "youtube",
-          "url": "https://www.youtube.com/watch?v=0noAwrWY78U",
-          "thumbnail": "https://img.youtube.com/vi/0noAwrWY78U/hqdefault.jpg",
-          "lastUpdated": "2025-10-21T00:00:00Z"
+          "id": "blog_estres_practico_1",
+          "title": "Métodos para aliviar el estrés: consejos para dominar el estrés",
+          "description": "Consejo práctico de Mayo Clinic sobre técnicas para manejar el estrés de forma saludable.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mayoclinic.org/es/healthy-lifestyle/stress-management/in-depth/stress-relievers/art-20047257",
+          "thumbnail": "📝",
+          "lastUpdated": "2025-10-22T00:00:00Z"
         },
         {
           "id": "yt_estres_3",
@@ -36,46 +26,45 @@
           "lastUpdated": "2025-10-20T00:00:00Z"
         },
         {
-          "id": "blog_estres_practico_1",
-          "title": "5 pasos sencillos para reducir el estrés diario",
-          "description": "Consejos prácticos y fáciles de aplicar para aliviar el estrés rápidamente.",
+          "id": "blog_estres_informativo_1",
+          "title": "Síntomas de estrés: consecuencias en tu cuerpo y en tu conducta",
+          "description": "Artículo de la Mayo Clinic que explica cómo el estrés afecta tu salud física, mental y conductual.",
           "type": "blog",
           "source": "external",
-          "url": "https://www.psicologiaymente.com/vida/reducir-estres",
-          "thumbnail": "https://www.psicologiaymente.com/static/images/logo-psicologiaymente.png",
-          "lastUpdated": "2025-10-19T00:00:00Z"
+          "url": "https://www.mayoclinic.org/es/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987",
+          "thumbnail": "📝",
+          "lastUpdated": "2025-10-18T00:00:00Z"
+        },
+        {
+          "id": "yt_estres_2",
+          "title": "Cómo entrenar tu mente para vencer el estrés (por Marian Rojas-Estapé)",
+          "description": "La psiquiatra Marian Rojas explica cómo el cerebro puede ser tu mejor aliado para controlar el estrés.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=0noAwrWY78U",
+          "thumbnail": "https://img.youtube.com/vi/0noAwrWY78U/hqdefault.jpg",
+          "lastUpdated": "2025-10-21T00:00:00Z"
         },
         {
           "id": "blog_estres_practico_2",
-          "title": "7 técnicas efectivas para manejar el estrés en el trabajo",
-          "description": "Aprende estrategias útiles para mantener la calma y mejorar tu bienestar laboral.",
+          "title": "Alivio del estrés y relajación",
+          "description": "Artículo de HelpGuide con técnicas de relajación para reducir el estrés rápido.",
           "type": "blog",
           "source": "external",
-          "url": "https://www.psicopedia.org/1985/tecnicas-manejo-del-estres/",
-          "thumbnail": "https://www.psicopedia.org/wp-content/uploads/2015/07/psicopedia-logo-1024x1024.png",
-          "lastUpdated": "2025-10-19T00:00:00Z"
-        },
-        {
-          "id": "blog_estres_informativo_1",
-          "title": "Qué es el estrés y cómo impacta en tu cuerpo",
-          "description": "Explicación completa sobre qué es el estrés, sus causas y cómo afecta tu salud física y mental.",
-          "type": "blog",
-          "source": "external",
-          "url": "https://www.mayoclinic.org/es/diseases-conditions/stress-symptoms-causes/syc-20353560",
-          "thumbnail": "https://www.mayoclinic.org/etc.clientlibs/mayoclinic/clientlibs/clientlib-site/resources/images/favicon.ico",
+          "url": "https://www.helpguide.org/es/estres/alivio-rapido-del-estres",
+          "thumbnail": "📝",
           "lastUpdated": "2025-10-23T00:00:00Z"
         },
         {
-          "id": "blog_estres_informativo_2",
-          "title": "Así reacciona tu cerebro cuando estás bajo estrés",
-          "description": "Descubre qué sucede dentro del cerebro cuando enfrentamos situaciones estresantes y cómo podemos regularlo.",
-          "type": "blog",
-          "source": "external",
-          "url": "https://www.bbva.com/es/salud-mental-cerebro-estres/",
-          "thumbnail": "https://www.bbva.com/wp-content/uploads/2022/10/bbva-logo-azul.png",
-          "lastUpdated": "2025-10-18T00:00:00Z"
+          "id": "yt_estres_1",
+          "title": "5 consejos simples para controlar el estrés",
+          "description": "Video corto con estrategias prácticas para reducir el estrés diario.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=P82Ola6HZ0I",
+          "thumbnail": "https://img.youtube.com/vi/P82Ola6HZ0I/hqdefault.jpg",
+          "lastUpdated": "2025-10-19T00:00:00Z"
         }
-
       ]
     },
     {
@@ -84,14 +73,64 @@
       "color": "#3B82F6",
       "items": [
         {
-          "id": "yt_ansiedad_1",
-          "title": "Cómo calmar la ansiedad en minutos",
-          "description": "Video práctico con técnicas simples para calmarte en momentos de ansiedad intensa.",
+          "id": "yt_ansiedad_3",
+          "title": "Tu ansiedad y tú | Casi Creativo",
+          "description": "Un video animado que explica con humor y sencillez cómo funciona la ansiedad, por qué aparece en momentos inesperados y cómo aprender a convivir con ella sin dejar que te controle.",
           "type": "video",
           "source": "youtube",
-          "url": "https://www.youtube.com/watch?v=lzA3rHw0bUo",
-          "thumbnail": "https://img.youtube.com/vi/lzA3rHw0bUo/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=UqnXZjrG-d8",
+          "thumbnail": "https://img.youtube.com/vi/UqnXZjrG-d8/hqdefault.jpg",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "blog_ansiedad_3",
+          "title": "Trastorno de ansiedad generalizada: ¿Cuándo no se pueden controlar las preocupaciones?",
+          "description": "Artículo que explica de forma clara qué es el trastorno de ansiedad generalizada, cuándo pasa de preocupación común a trastorno clínico y qué factores intervienen.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.nimh.nih.gov/health/publications/espanol/trastorno-de-ansiedad-generalizada-cuando-no-se-pueden-controlar-las-preocupaciones-new",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "yt_ansiedad_1",
+          "title": "Ejercicios para controlar la ansiedad",
+          "description": "La ansiedad es una respuesta normal del organismo ante situaciones que se perciben como peligro y que generan miedo. Cuando la experimentas de manera moderada, te permite prepararte para reaccionar y actuar, sin embargo, cuando es excesiva, puede interferir con tu vida. En este video, la Psic. Nadia Paulina Arvizú Martínez, especialista en neuropsicología,  te da recomendaciones de ejercicios para controlarla. ",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=ifKLyrl2mTk",
+          "thumbnail": "https://img.youtube.com/vi/ifKLyrl2mTk/hqdefault.jpg",
           "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "blog_ansiedad_1",
+          "title": "Cómo calmar la ansiedad: consejos y técnicas útiles",
+          "description": "Artículo con técnicas de respiración, actividad física y hábitos para reducir la ansiedad rápidamente.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.unobravo.com/es/blog/como-calmar-la-ansiedad",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "blog_ansiedad_2",
+          "title": "7 consejos para gestionar la ansiedad",
+          "description": "Blog con estrategias prácticas como respiración, rutina y hablar sobre preocupaciones para controlar la ansiedad.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.som360.org/es/blog/7-consejos-gestionar-ansiedad",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "yt_ansiedad_2",
+          "title": "¿POR QUÉ TENEMOS ANSIEDAD?",
+          "description": "El Dr. López Rosetti explica de forma clara qué es la ansiedad, cuáles son sus diferentes tipos, sus principales síntomas y los tratamientos más efectivos para manejarla en la vida cotidiana.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=OEmZyVGEPBo",
+          "thumbnail": "https://img.youtube.com/vi/OEmZyVGEPBo/hqdefault.jpg",
+          "lastUpdated": "2025-10-20T00:00:00Z"
         }
       ]
     },
@@ -101,48 +140,399 @@
       "color": "#9333EA",
       "items": [
         {
+          "id": "blog_depresion_mc_3",
+          "title": "Depresión clínica: ¿Qué significa?",
+          "description": "Artículo de Mayo Clinic que explica qué es la depresión clínica y cómo se diferencia de otros estados.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mayoclinic.org/es/diseases-conditions/depression/expert-answers/clinical-depression/faq-20057770",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
           "id": "yt_depresion_1",
-          "title": "Cómo detectar los primeros signos de depresión",
-          "description": "Video educativo que explica los síntomas tempranos y cómo buscar ayuda a tiempo.",
+          "title": "¿Cómo salir de una depresión profunda?",
+          "description": "En este video, el Dr. Xavier Fàbregas, director médico del centro Mas Ferriol, especializado en el tratamiento de adicciones y salud mental con más de 38 años de experiencia, responde a una serie de preguntas orientadas a todas aquellas personas que puedan estar pasando por una depresión.",
           "type": "video",
           "source": "youtube",
-          "url": "https://www.youtube.com/watch?v=w9zJrq9m2Bo",
-          "thumbnail": "https://img.youtube.com/vi/w9zJrq9m2Bo/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rn-GdtMoaRQ",
+          "thumbnail": "https://img.youtube.com/vi/rn-GdtMoaRQ/hqdefault.jpg",
           "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "blog_depresion_mc_1",
+          "title": "Depresión (trastorno depresivo mayor) – Síntomas y causas",
+          "description": "Artículo de Mayo Clinic con explicación de los síntomas y las causas de la depresión mayor.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mayoclinic.org/es/diseases-conditions/depression/symptoms-causes/syc-20356007",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "yt_depresion_3",
+          "title": "Depresión: Qué es, por qué ocurre y principales síntomas | #TELOEXPLICO",
+          "description": "Según la OMS, aproximadamente 300 millones de personas en el mundo sufren de depresión. Pero, ¿cómo se reconoce la depresión? ¿Cómo se sale de la depresión? ¿Y cómo se puede ayudar a un ser querido que sufre de depresión? Intentemos responder a todas estas preguntas: Cómo se Reconoce la Depresión: Síntomas y Posibles Causas #TELOEXPLICO",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=WIb4B79B9zQ",
+          "thumbnail": "https://img.youtube.com/vi/WIb4B79B9zQ/hqdefault.jpg",
+          "lastUpdated": "2025-10-20T00:00:00Z"
+        },
+        {
+          "id": "blog_depresion_mc_2",
+          "title": "Depresión: apoyar a un familiar o a un amigo",
+          "description": "Guía de Mayo Clinic sobre cómo acompañar a alguien que sufre depresión.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.mayoclinic.org/es/diseases-conditions/depression/in-depth/depression/art-20045943",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-19T00:00:00Z"
+        },
+        {
+          "id": "yt_depresion_2",
+          "title": "¿Cómo ayudar a alguien con depresión? | Psicología al Desnudo",
+          "description": "Ayudar a alguien con depresión no es tarea fácil. Pero se puede. Podemos transformarnos en la llave que abre la puerta a la posibilidad de la sanación.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=CVTF4PSyHq8",
+          "thumbnail": "https://img.youtube.com/vi/CVTF4PSyHq8/hqdefault.jpg",
+          "lastUpdated": "2025-10-18T00:00:00Z"
         }
       ]
     },
     {
       "category": "autoestima",
-      "displayName": "Autoestima",
+      "displayName": "Autoestima y Crecimiento",
       "color": "#22C55E",
       "items": [
         {
-          "id": "yt_autoestima_1",
-          "title": "Cómo fortalecer tu autoestima paso a paso",
-          "description": "Video motivacional con estrategias prácticas para mejorar tu autoconfianza.",
+          "id": "yt_autoestima_2",
+          "title": "Cuatro pilares para una buena autoestima.",
+          "description": "Un episodio que explora los cuatro pilares clave para desarrollar una autoestima sana durante la adolescencia.",
           "type": "video",
           "source": "youtube",
-          "url": "https://www.youtube.com/watch?v=6mZqV4TBnWg",
-          "thumbnail": "https://img.youtube.com/vi/6mZqV4TBnWg/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mT8qVzEhiEA",
+          "thumbnail": "https://img.youtube.com/vi/mT8qVzEhiEA/hqdefault.jpg",
           "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "blog_autoestima_1",
+          "title": "7 ejercicios y actividades para desarrollar la autoestima",
+          "description": "Blog con actividades prácticas para cultivar tu autoestima: gratitud, diario personal, autocompasión y más.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.sofiaperezpsicologa.com/blog/actividades-para-desarrollar-la-autoestima/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "yt_autoestima_3",
+          "title": "4 sencillos hábitos para mejorar tu AUTOESTIMA",
+          "description": "Video con cuatro hábitos concretos y fáciles de incorporar para reforzar tu autoestima día a día.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=y3vrDj2-CfQ",
+          "thumbnail": "https://img.youtube.com/vi/y3vrDj2-CfQ/hqdefault.jpg",
+          "lastUpdated": "2025-10-20T00:00:00Z"
+        },
+        {
+          "id": "blog_autoestima_2",
+          "title": "Autoestima: 3 ejercicios para fortalecerla",
+          "description": "Artículo que propone una rutina con tres ejercicios para fortalecer la autopercepción y la confianza.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://psicologia-estrategica.com/autoestima-3-ejercicios-fortalecerla/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-19T00:00:00Z"
+        },
+        {
+          "id": "yt_autoestima_1",
+          "title": "¿Tú te amas? Los secretos de la autoestima",
+          "description": "Video que invita a reflexionar sobre la relación que tienes contigo mismo y cómo construir amor propio auténtico.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=6ZQSMXPJsgU",
+          "thumbnail": "https://img.youtube.com/vi/6ZQSMXPJsgU/hqdefault.jpg",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "blog_autoestima_3",
+          "title": "Cómo mejorar la autoestima: Técnicas y consejos",
+          "description": "Guía práctica con estrategias y acciones clave para mejorar la autoestima en diferentes contextos de tu vida.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.bupasalud.com/salud/mejorar-autoestima",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-18T00:00:00Z"
         }
       ]
     },
     {
-      "category": "sueno",
-      "displayName": "Sueño",
-      "color": "#0EA5E9",
+      "category": "pareja",
+      "displayName": "Terapia de Pareja",
+      "color": "#FF6F61",
       "items": [
         {
-          "id": "yt_sueno_1",
-          "title": "Consejos para dormir mejor y despertar con energía",
-          "description": "Guía práctica con hábitos saludables para mejorar tu calidad de sueño.",
+          "id": "blog_pareja_3",
+          "title": "6 pasos para crecer en pareja: construid una relación sana",
+          "description": "Guía práctica con claves para establecer hábitos, perdón, admiración mutua y objetivos comunes en la relación.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://espaciocalmaterapia.es/blog/6-pasos-crecer-en-pareja/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "yt_pareja_2",
+          "title": "¿Qué hacen las parejas que funcionan bien? - Walter Riso",
+          "description": "El psicólogo Walter Riso analiza los patrones y comportamientos de las parejas que duran y funcionan saludablemente.",
           "type": "video",
           "source": "youtube",
-          "url": "https://www.youtube.com/watch?v=0EkrfI9YHqA",
-          "thumbnail": "https://img.youtube.com/vi/0EkrfI9YHqA/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Go9J4uq6QoY",
+          "thumbnail": "https://img.youtube.com/vi/Go9J4uq6QoY/hqdefault.jpg",
           "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "blog_pareja_1",
+          "title": "Cómo desarrollar relaciones saludables",
+          "description": "Artículo que explica los fundamentos de una relación sana: comunicación, respeto, límites y confianza.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.safeaustin.org/es/our-issues/how-to-develop-healthy-relationships/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "yt_pareja_3",
+          "title": "Los Estilos de Apego Adultos. ¿Cómo afectan tu relación de pareja?",
+          "description": "Video que explora cómo los distintos estilos de apego influyen en la forma de relacionarse en pareja y qué hacer para mejorarla.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=jn8bP_dtL58",
+          "thumbnail": "https://img.youtube.com/vi/jn8bP_dtL58/hqdefault.jpg",
+          "lastUpdated": "2025-10-20T00:00:00Z"
+        },
+        {
+          "id": "yt_pareja_1",
+          "title": "8 Trucos Secretos de las Relaciones Sanas | Psych2Go",
+          "description": "Video animado que revela ocho hábitos poco conocidos pero efectivos para construir una relación de pareja más sólida.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=jFDmeZqOK7w",
+          "thumbnail": "https://img.youtube.com/vi/jFDmeZqOK7w/hqdefault.jpg",
+          "lastUpdated": "2025-10-19T00:00:00Z"
+        },
+        {
+          "id": "blog_pareja_2",
+          "title": "10 actitudes para mejorar tu relación de pareja",
+          "description": "Lista de actitudes clave —como conocer profundamente al otro, escucha activa y cuidar la rutina— para fortalecer la relación.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.psicoglobal.com/blog/10-actitudes-mejorar-tu-relacion-pareja",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-18T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "familia",
+      "displayName": "Familia y Crianza",
+      "color": "#F59E0B",
+      "items": [
+        {
+          "id": "blog_crianza_1",
+          "title": "Crianza positiva en la adolescencia",
+          "description": "Guía orientada a padres de adolescentes con estrategias para acompañar con respeto, promover autonomía y mantener la conexión en la etapa adolescente.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://crianzanatural.es/crianza-positiva-en-adolescencia/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "yt_crianza_2",
+          "title": "Cómo Mejorar la Comunicación Familiar • Los 5 Pilares de la Convivencia Familiar",
+          "description": "Video que desarrolla cinco pilares esenciales para una comunicación familiar efectiva y relaciones más saludables en casa.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=DJRoWqzQ6WQ",
+          "thumbnail": "https://img.youtube.com/vi/DJRoWqzQ6WQ/hqdefault.jpg",
+          "lastUpdated": "2025-10-22T00:00:00Z"
+        },
+        {
+          "id": "blog_crianza_3",
+          "title": "Estilos de crianza: definición, tipos y orientación para padres",
+          "description": "Guía práctica para reconocer los distintos estilos de crianza (autoritario, permisivo, democrático) y sus efectos en los hijos.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.unobravo.com/es/blog/estilos-de-crianza",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-21T00:00:00Z"
+        },
+        {
+          "id": "yt_crianza_3",
+          "title": "5 Estilos de Crianza y sus Efectos en la Vida",
+          "description": "Video que analiza cinco estilos de crianza distintos y cómo influyen en el desarrollo emocional y conductual de los niños.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=ECCCFPfKZDs",
+          "thumbnail": "https://img.youtube.com/vi/ECCCFPfKZDs/hqdefault.jpg",
+          "lastUpdated": "2025-10-20T00:00:00Z"
+        },
+        {
+          "id": "blog_crianza_2",
+          "title": "Parentalidad positiva: qué es y cómo trabajarla",
+          "description": "Artículo que explica el enfoque de crianza basada en el respeto mutuo, la comunicación y el desarrollo emocional del niño.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.unicef.es/blog/educacion/parentalidad-positiva-que-es-y-como-trabajarla",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-23T00:00:00Z"
+        },
+        {
+          "id": "yt_crianza_1",
+          "title": "Cómo establecer límites desde la disciplina positiva. María Soto, educadora",
+          "description": "Vídeo educativo sobre cómo aplicar disciplina positiva, establecer límites de forma respetuosa y construir una crianza sana.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=f5FDj_WSmeI",
+          "thumbnail": "https://img.youtube.com/vi/f5FDj_WSmeI/hqdefault.jpg",
+          "lastUpdated": "2025-10-18T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "duelo",
+      "displayName": "Duelo y Pérdidas",
+      "color": "#6B7280",
+      "items": [
+        {
+          "id": "blog_duelo_1",
+          "title": "Las etapas del duelo: Comprender y Superar la Pérdida",
+          "description": "Artículo de Psi Mammoliti que explica las etapas del duelo y ofrece orientación para transitar la pérdida de forma consciente y compasiva.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.psimammoliti.com/recursos/blog/las-etapas-del-duelo",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_duelo_2",
+          "title": "¿Qué es el DUELO en psicología? Y sus etapas según Elisabeth Kübler Ross",
+          "description": "Video explicativo sobre el concepto de duelo y las cinco etapas propuestas por Elisabeth Kübler-Ross, desde una perspectiva psicológica.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=nsfRd7miATs",
+          "thumbnail": "https://img.youtube.com/vi/nsfRd7miATs/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_duelo_2",
+          "title": "Honrar la memoria: Transitar el camino del duelo y la pérdida",
+          "description": "Artículo de ASCOFAPSI que aborda cómo procesar una pérdida, honrar la memoria del ser querido y encontrar sentido durante el duelo.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://blog.ascofapsi.org.co/honrar-la-memoria-transitar-el-camino-del-duelo-y-la-perdida/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_duelo_1",
+          "title": "Las etapas del duelo - Gaby Tanatóloga - Tanatotip",
+          "description": "Gaby Pérez Islas, tanatóloga, explica de forma cercana las etapas del duelo y cómo reconocerlas en el proceso de sanar una pérdida.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=V0-eN7KB2Hc",
+          "thumbnail": "https://img.youtube.com/vi/V0-eN7KB2Hc/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_duelo_3",
+          "title": "Las 5 Etapas del Duelo: Cómo Afrontarlas",
+          "description": "Guía práctica del blog Unobravo que detalla las cinco etapas del duelo y ofrece herramientas psicológicas para sobrellevarlas.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.unobravo.com/es/blog/etapas-del-duelo",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_duelo_3",
+          "title": "Cómo superar la PÉRDIDA de un SER QUERIDO",
+          "description": "Video que ofrece pautas emocionales y psicológicas para superar la pérdida de un ser querido y avanzar hacia la aceptación y el bienestar.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=5UJJA79vauo",
+          "thumbnail": "https://img.youtube.com/vi/5UJJA79vauo/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "category": "estres_laboral",
+      "displayName": "Estrés Laboral y Burnout",
+      "color": "#EF4444",
+      "items": [
+        {
+          "id": "yt_burnout_2",
+          "title": "Quemados y exhaustos: lo que no sabías del síndrome del burnout | Psicología al Desnudo",
+          "description": "Video del canal Psicología al Desnudo que profundiza en el síndrome del burnout, sus causas y cómo reconocer los signos de agotamiento extremo.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=0Jrsmx3vc34",
+          "thumbnail": "https://img.youtube.com/vi/0Jrsmx3vc34/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_burnout_3",
+          "title": "Estudio Burnout Laboral 2025: Las nuevas cifras que revelan cómo afecta a trabajadores y empresas en Latinoamérica",
+          "description": "Análisis del portal Buk con datos recientes sobre el impacto del burnout laboral en Latinoamérica, sus efectos en la productividad y el bienestar.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.buk.cl/blog/estudio-burnout-laboral-2025-buk",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_burnout_1",
+          "title": "NO es FLOJERA, tienes BURNOUT",
+          "description": "Video que explica por qué el burnout no es pereza, sino un síndrome de agotamiento profundo producto del estrés laboral prolongado.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=IYq35hem4ZU",
+          "thumbnail": "https://img.youtube.com/vi/IYq35hem4ZU/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_burnout_2",
+          "title": "Burnout Laboral: Síntomas y Cómo Prevenirlo",
+          "description": "Artículo de Factorial que describe los principales síntomas del burnout, sus causas y estrategias efectivas para prevenirlo en el entorno laboral.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://factorial.es/blog/burnout-sindrome/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "yt_burnout_3",
+          "title": "Burnout - Estrés laboral con el Dr. Hector Ochomogo",
+          "description": "Entrevista con el Dr. Hector Ochomogo sobre el estrés laboral y el síndrome de burnout, abordando cómo detectarlo y afrontarlo a tiempo.",
+          "type": "video",
+          "source": "youtube",
+          "url": "https://www.youtube.com/watch?v=uO4bJhoPGWI",
+          "thumbnail": "https://img.youtube.com/vi/uO4bJhoPGWI/hqdefault.jpg",
+          "lastUpdated": "2025-10-25T00:00:00Z"
+        },
+        {
+          "id": "blog_burnout_1",
+          "title": "Estrés Laboral: Síndrome de Burnout",
+          "description": "Artículo del portal Tu Terapia (Uruguay) que explica en profundidad el síndrome de burnout, su relación con el estrés laboral y las formas de afrontarlo.",
+          "type": "blog",
+          "source": "external",
+          "url": "https://www.tuterapia.com.uy/blog/estres-laboral-sindrome-de-burnout/",
+          "thumbnail": "",
+          "lastUpdated": "2025-10-25T00:00:00Z"
         }
       ]
     }
