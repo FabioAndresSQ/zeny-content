@@ -1,5 +1,5 @@
 {
-    "phrases": [
+    "quotes": [
         {
             "es": "No tengas miedo de ser diferente. Teme ser igual que los demás.",
             "en": "Don’t be afraid of being different. Be afraid of being the same as everyone else.",
@@ -2191,4 +2191,5 @@
             "author_en": "Anónimo"
         }
     ]
+
 }
